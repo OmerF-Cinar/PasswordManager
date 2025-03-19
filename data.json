@@ -1,0 +1,26 @@
+{
+    "facebook": {
+        "email": "test@mail.com",
+        "password": "t+CXj#h2n(2eb0V"
+    },
+    "ebay": {
+        "email": "test@mail.com",
+        "password": "0kV!lu&3#Izb4*rk"
+    },
+    "reddit": {
+        "email": "test@mail.com",
+        "password": "NuKG(G67G&Fc#w(1"
+    },
+    "instagram": {
+        "email": "test@mail.com",
+        "password": "k$gavbh3k(6I&"
+    },
+    "linkedin": {
+        "email": "test@mail.com",
+        "password": "&v2OY$r&4ndbWy27M"
+    },
+    "github": {
+        "email": "test@mail.com",
+        "password": "0p)Lf*95zTMVlTs7"
+    }
+}
